@@ -12,7 +12,7 @@ public class main {
         int prezo;
         int idade;
         
-        System.out.println("Indica a idade do cliente??");
+        System.out.println("Indica a idade do cliente!!");
         idade = input.nextInt();
         if (idade < 0) {
             System.out.println("Idade non válida");
@@ -27,6 +27,6 @@ public class main {
                 }
             }
             System.out.println("O prezo é " + prezo);
-        }
+	}
     }
 }
