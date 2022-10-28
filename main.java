@@ -27,6 +27,7 @@ public class main {
                 }
             }
             System.out.println("O prezo é " + prezo);
-        }
+	    System.out.println("p");
+	}
     }
 }
